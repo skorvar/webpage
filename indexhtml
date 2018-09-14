@@ -23,7 +23,7 @@
 				</nav> 
 			</div>
 		</nav>
-		<header style="background-color:red; padding-top:70px; "> 
+		<header style="background-color:#F6CECE; padding-top:150px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
@@ -51,7 +51,7 @@
 					</article>
 					<article>
 						<h3>Школа</h2>
-						<p>пятьдесят седьмая школа</p>
+						<p><a href="http://sch57.ru/">пятьдесят седьмая школа</a>.</p>
 					</article>
 				</div>
 				<div class="col-md-6">
@@ -63,9 +63,9 @@
 				<div class="col-md-3">
 					<h3>Я в соцсетях</h3>
 					<ul>
-						<li>VK</li>https://vk.com/varya_skrbgtv
+						<a href="https://vk.com/varya_skrbgtv">В контакте</a>.
 
-			      <li>Instagram</li>https://www.instagram.com/skorvar/
+			      <a href="https://www.instagram.com/skorvar/">инстаграм</a>.
 					</ul>
 				</div>
 			</div>
